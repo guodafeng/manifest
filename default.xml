@@ -4,4 +4,5 @@
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
   <project path="pythoncode" name="pythondev.git" />
   <project path="ccode" name="CProg.git" />
+  <project path="res_convertor" name="res_convert.git"/>
 </manifest>
